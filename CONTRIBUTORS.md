@@ -1,3 +1,8 @@
+#### Name: [Sanchya](https://github.com/Sanchya1)
+ - Place: Bangalore, India
+ - Bio: 3rd year Btech student.
+ - GitHub: [Sanchya](https://github.com/Sanchya1)
+
 #### Name: Vallenain
  - Place: Lyon, France
  - Bio: Software engineer. Graduated from INSA Lyon.
@@ -16,7 +21,7 @@
 #### Name: [ALICE CHUANG](https://github.com/AliceWonderland)
 - Place: New York City, NY, USA
 - Bio: I love DOGS! :dog:
-- GitHub: [Alice Chuang](https://github.com/AliceWonderland)
+- GitHub: [Alice Chuang](https://github.com/AliceWonderland)  
 
 #### Name: [AMIT CHAMBIAL](https://github.com/devaman)
 - Place: PUNJAB,INDIA
